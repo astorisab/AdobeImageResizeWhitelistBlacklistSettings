@@ -63,8 +63,44 @@ aem-discovery.adobe.io
 presence-ue1.adobe.io
 
 
+///BLOCKING ALL CONNECTIONS FROM THE FOLLOWING DOMAINS///
 
+Blocking connections related to adobe-identity.com domain
 
+uds.adobe-identity.com
 
+Blocking connections related to adobeprojectm.com domain
 
+design-assets.adobeprojectm.com
 
+Blocking connections related to adobedtm.com domain
+
+assets.adobedtm.com
+
+Blocking connections related to adobedccstatic.com domain
+
+prod.adobeccstatic.com
+
+Blocking connections related to arkoselabs.com domain
+
+adobe-api.arkoselabs.com
+
+Blocking connections related to adobess.com domain
+
+ss-prod-va6c2-ns.va6c2.adobess.com
+
+Blocking connections related to adobecc.com domain (not sure on this one. I have it blocked)
+
+cdn-sharing.adobecc.com
+
+Blocking connections related to demdex.net domain
+
+adobe.demdex.net
+
+Blocking connections related to adoberesources.net domain (not sure on this one. I have it blocked)
+
+cdn1.adoberesources.net
+
+Blocking connections related to adobedc.net domain (not sure on this one. I have it blocked)
+
+edge.adobedc.net
