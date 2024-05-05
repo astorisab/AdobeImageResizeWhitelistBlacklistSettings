@@ -7,3 +7,8 @@ adobeid-na1.services.adobe.com
 Allowing connections related to adobelogin.com domain
 
 ims-na1.adobelogin.com
+
+Allowing connections related to app.link domain (work in progress)
+
+adobesparkpost-web.app.link
+adobesparkpost.app.link
