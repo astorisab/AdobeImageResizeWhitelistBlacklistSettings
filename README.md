@@ -9,5 +9,5 @@ The following link was used to access image resize: https://www.adobe.com/expres
 
 
 
-Checkout these blocklist created by another github contributor if interested in other blocklists:
+Checkout these blocklists created by another github contributor if interested in other blocklists:
 https://github.com/d43m0nhLInt3r/socialblocklists
