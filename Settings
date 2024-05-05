@@ -85,6 +85,11 @@ Blocking connections related to arkoselabs.com domain
 
 adobe-api.arkoselabs.com
 
+
+
+
+///OTHER DOMAINS FOR CONCIDERATION BLOCKING ALL CONNECTIONS///
+
 Blocking connections related to adobess.com domain
 
 ss-prod-va6c2-ns.va6c2.adobess.com
@@ -104,3 +109,8 @@ cdn1.adoberesources.net
 Blocking connections related to adobedc.net domain (not sure on this one. I have it blocked)
 
 edge.adobedc.net
+
+Blocking connections related to typekit.net domain (not sure on this one. I have it blocked)
+
+use.typekit.net
+p.typekit.net
