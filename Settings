@@ -19,4 +19,17 @@ cctypekit.adobe.io
 aps-web.adobe.io
 
 
+///BLOCKED CONNECTIONS///
+
+Blocking connections related to adobe.com domain
+
+server.messaging.adobe.com
+clio-assets.adobe.com
+sstats.adobe.com
+geo2.adobe.com
+wcs.adobe.com
+pps.services.adobe.com
+cdn-prod-ccv.adobe.com
+prod.wam.adobe.com
+federatedid-na1.services.adobe.com
 
