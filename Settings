@@ -1,0 +1,9 @@
+Allowing connections related to adobe.com domain
+
+new.express.adobe.com
+auth.services.adobe.com
+adobeid-na1.services.adobe.com
+
+Allowing connections related to adobelogin.com domain
+
+ims-na1.adobelogin.com
