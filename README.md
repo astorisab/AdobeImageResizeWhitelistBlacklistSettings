@@ -4,6 +4,8 @@ If anyone is interested in a whitelist or a blacklist for firewall settings when
 
 These are the connections that I currently have open on my computer and the ones that I have blocked.
 
+This allows Adobe Image Resize functionality to work without all the other added connections. *Not tested without the use of exisiting Adobe account 
+
 The following link was used to access image resize: https://www.adobe.com/express/feature/image/resize
 
 
