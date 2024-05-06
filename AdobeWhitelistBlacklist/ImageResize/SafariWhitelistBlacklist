@@ -1,0 +1,119 @@
+SAFARI BROWSER SETTINGS
+
+
+Allowing connections related to adobe.com domain
+
+new.express.adobe.com
+auth.services.adobe.com
+adobeid-na1.services.adobe.com
+
+Allowing connections related to adobelogin.com domain
+
+ims-na1.adobelogin.com
+
+Allowing connections related to app.link domain (work in progress)
+
+adobesparkpost-web.app.link
+adobesparkpost.app.link
+
+Allowing connections related to adobe.io domain (work in progress)
+
+cctypekit.adobe.io
+aps-web.adobe.io
+
+
+///BLOCKED CONNECTIONS///
+
+Blocking connections related to adobe.com domain
+
+server.messaging.adobe.com
+clio-assets.adobe.com
+sstats.adobe.com
+geo2.adobe.com
+wcs.adobe.com
+pps.services.adobe.com
+cdn-prod-ccv.adobe.com
+prod.wam.adobe.com
+federatedid-na1.services.adobe.com
+
+Blocking connections related to adobe.io domain
+
+cc-api-data.adobe.io
+p13n.adobe.io
+invitations.adobe.io
+firefly-ae.adobe.io
+byof.adobe.io
+platform-cs.adobe.io
+platform-cs-edge.adobe.io
+stock.adobe.io
+adobesearch.adobe.io
+notify.adobe.io
+pps.adobe.io
+cc-collab.adobe.io
+hz-telemetry.adobe.io
+platform-cs-va6c2.adobe.io
+platform-cs-edge-va6c2.adobe.io
+platform-cs-va6.adobe.io
+ffc-addon.adobe.io
+pgc.adobe.io
+comments.adobe.io
+ds.adobe.io
+hz-ccx-das.adobe.io
+cc-api-behance.adobe.io
+acp-ss.adobe.io
+livecreate-ue1.adobe.io
+aem-discovery.adobe.io
+presence-ue1.adobe.io
+
+
+///BLOCKING ALL CONNECTIONS FROM THE FOLLOWING DOMAINS///
+
+Blocking connections related to adobe-identity.com domain
+
+uds.adobe-identity.com
+
+Blocking connections related to adobeprojectm.com domain
+
+design-assets.adobeprojectm.com
+
+Blocking connections related to adobedtm.com domain
+
+assets.adobedtm.com
+
+Blocking connections related to adobedccstatic.com domain
+
+prod.adobeccstatic.com
+
+Blocking connections related to arkoselabs.com domain
+
+adobe-api.arkoselabs.com
+
+
+
+
+///OTHER DOMAINS FOR CONCIDERATION BLOCKING ALL CONNECTIONS///
+
+Blocking connections related to adobess.com domain
+
+ss-prod-va6c2-ns.va6c2.adobess.com
+
+Blocking connections related to adobecc.com domain (not sure on this one. I have it blocked)
+
+cdn-sharing.adobecc.com
+
+Blocking connections related to demdex.net domain
+
+adobe.demdex.net
+
+Blocking connections related to adoberesources.net domain (not sure on this one. I have it blocked)
+
+cdn1.adoberesources.net
+
+Blocking connections related to adobedc.net domain (not sure on this one. I have it blocked)
+
+edge.adobedc.net
+
+Blocking connections related to typekit.net domain (not sure on this one. I have it blocked)
+
+use.typekit.net
+p.typekit.net
