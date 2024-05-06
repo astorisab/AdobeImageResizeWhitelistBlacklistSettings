@@ -1,14 +1,15 @@
-# Adobe Image Resize Whitelist and Blacklist
+# Adobe Application Whitelist and Blacklist
 
-If anyone is interested in a whitelist or a blacklist for firewall settings when using Adobe Image Resize Online feel free to use this as a starting point.
+If anyone is interested in a whitelist or a blacklist for firewall settings when using Adobe.
+Feel free to use this as a starting point. These are the connections that I currently have open on my computer and the ones that I have blocked.
 
-These are the connections that I currently have open on my computer and the ones that I have blocked.
+# Image Resize Online
 
-This allows Adobe Image Resize functionality to work without all the other added connections. *Not tested without the use of exisiting Adobe account 
+Allows Adobe Image Resize functionality to work without all the other added connections. *Not tested without the use of exisiting Adobe account 
 
 The following link was used to access image resize: https://www.adobe.com/express/feature/image/resize
 
-
+Functional for: Safari Browser
 
 
 If looking for some blocklists related to blocking app functionality, this repo created by another github contributor may be of interest:
